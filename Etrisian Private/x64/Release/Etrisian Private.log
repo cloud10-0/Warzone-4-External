@@ -1,0 +1,95 @@
+﻿  main.cpp
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(51,40): error C2065: "FILE_DEVICE_UNKNOWN": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(51,40): error C2065: "METHOD_BUFFERED": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(51,40): error C2065: "FILE_SPECIAL_ACCESS": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(51,40): error C3861: "CTL_CODE": Bezeichner wurde nicht gefunden.
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(62,40): error C2065: "FILE_DEVICE_UNKNOWN": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(62,40): error C2065: "METHOD_BUFFERED": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(62,40): error C2065: "FILE_SPECIAL_ACCESS": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(62,40): error C3861: "CTL_CODE": Bezeichner wurde nicht gefunden.
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(73,40): error C2065: "FILE_DEVICE_UNKNOWN": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(73,40): error C2065: "METHOD_BUFFERED": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(73,40): error C2065: "FILE_SPECIAL_ACCESS": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\driver\kernel.h(73,40): error C3861: "CTL_CODE": Bezeichner wurde nicht gefunden.
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\expected(11): warning STL4038: The contents of <expected> are available only with C++23 or later.
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\sdk\offset.hpp(64,24): warning C4244: "Initialisierung": Konvertierung von "uint64_t" in "DWORD", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\sdk\offset.hpp(65,24): warning C4244: "Initialisierung": Konvertierung von "uint64_t" in "DWORD", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\sdk\offset.hpp(1273,12): warning C4244: "return": Konvertierung von "uint64_t" in "uint16_t", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\core.h(120,15): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\core.h(120,15):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\core.h(479,14): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\core.h(479,14):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\core.h(488,14): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\core.h(488,14):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\engine.h(90,49): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\engine.h(91,50): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Util\engine.h(214,26): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\features\esp.h(23,22): error C2653: "settings": Keine Klasse oder Namespace
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\features\esp.h(23,41): error C2065: "thickness": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\features\esp.h(27,13): error C2653: "settings": Keine Klasse oder Namespace
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\features\esp.h(27,32): error C2065: "skeleton": nichtdeklarierter Bezeichner
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\features\esp.h(39,13): error C2653: "settings": Keine Klasse oder Namespace
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\features\esp.h(39,32): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\features\esp.h(39,32): error C2451: Ein bedingter Ausdruck vom Typ "overloaded-function" ist ungültig.
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Users\noah\source\repos\Etrisian Private\Etrisian Private\Cheat\features\esp.h(39,32):
+      Der Kontext ermöglicht keine Eindeutigkeit für überladene Funktionen
+  
